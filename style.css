@@ -1,0 +1,32 @@
+body{
+	color:black;
+	background-color:#c4d134;
+	font-family:cursive;
+	font-size:15px;
+	line-height:20px;
+	text-align:center;
+}
+
+h1{
+	font-variant:small-caps;
+	letter-spacing:1px;
+	font-size:40px;
+}
+
+p{
+	padding:0px 200px;
+}
+
+img{
+	border-radius:20px;
+	box-shadow:10px 10px 20px;
+}
+
+a{
+	color:#434529;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#f1f2e1;
+}

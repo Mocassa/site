@@ -1,0 +1,45 @@
+body{ 
+	color:rgb(237, 206, 218);/*changer la couleur du texte, nom en anglais, hexadecimal,rgb*/
+	background-color:#2b0712;/*sert à changer la couleur de fond des éléments*/
+	font-family:cursive;/*changer la police,cursive, monospace, serif, sans-serif, fantasy*/
+	font-size:15px;/*modifier la taille des lettres*/
+	line-height:20px;/*taille entre deux lignes de texte*/
+	text-align:center;/*changer la position du texte : center, right, left*/
+}
+
+h1{
+	color:#ff0063;
+	font-family:sans-serif;
+	font-variant:small-caps;/*permet de transformer les lettres en petites majuscules*/
+	letter-spacing:1px;/*augmenter ou diminuer l'espace entre les lettres*/
+}
+
+h2{
+	color:#ff0063;
+	font-weight:lighter;/*modifier l'epaisseur des lettres : lighter, bolder*/
+}
+
+a{
+	color:#ff0063;
+	text-decoration:none; /*pErMeT de supprimer la barre de soulignement*/
+}
+
+a:hover{/*modifier la couleur du lien quand la souris passe dessus*/	
+	color:#bf0d72;
+}
+
+div{
+	margin:25px 300px;/*marge extérieure*/
+	padding:20px;/*marge intérieure*/
+	border-radius:20px;/*arrondir les angles des bordures*/
+	box-shadow:10px 10px 17px #ff0063;/*ajouter une ombre aux éléments*/
+} 
+
+iframe{
+	border-radius:14px;
+}
+
+img{
+	border-radius:14px;
+}
+
